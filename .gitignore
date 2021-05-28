@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+cmake-build-debug/CMakeFiles/clion-log.txt
+*.txt
+cmake-build-debug/CMakeFiles/progress.marks
+cmake-build-debug/Makefile
+CMakeLists.txt
+Tictactoe.h
