@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/Tictactoe.cpp.obj"
   "CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/main.cpp.obj"
   "marczaku_gp20_2021_0524_nim_game_xaLi112.exe"
   "marczaku_gp20_2021_0524_nim_game_xaLi112.exe.manifest"

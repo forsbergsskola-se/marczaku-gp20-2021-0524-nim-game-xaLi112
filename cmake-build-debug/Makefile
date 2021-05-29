@@ -126,6 +126,33 @@ marczaku_gp20_2021_0524_nim_game_xaLi112\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build
 .PHONY : marczaku_gp20_2021_0524_nim_game_xaLi112\fast
 
+Tictactoe.obj: Tictactoe.cpp.obj
+
+.PHONY : Tictactoe.obj
+
+# target to build an object file
+Tictactoe.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.obj
+.PHONY : Tictactoe.cpp.obj
+
+Tictactoe.i: Tictactoe.cpp.i
+
+.PHONY : Tictactoe.i
+
+# target to preprocess a source file
+Tictactoe.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.i
+.PHONY : Tictactoe.cpp.i
+
+Tictactoe.s: Tictactoe.cpp.s
+
+.PHONY : Tictactoe.s
+
+# target to generate assembly for a file
+Tictactoe.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.s
+.PHONY : Tictactoe.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -162,6 +189,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... marczaku_gp20_2021_0524_nim_game_xaLi112
+	@echo ... Tictactoe.obj
+	@echo ... Tictactoe.i
+	@echo ... Tictactoe.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

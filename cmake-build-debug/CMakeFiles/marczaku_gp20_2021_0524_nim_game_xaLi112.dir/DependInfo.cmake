@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Programming/LameScooter/marczaku-gp20-2021-0524-nim-game-xaLi112/Tictactoe.cpp" "D:/Programming/LameScooter/marczaku-gp20-2021-0524-nim-game-xaLi112/cmake-build-debug/CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/Tictactoe.cpp.obj"
   "D:/Programming/LameScooter/marczaku-gp20-2021-0524-nim-game-xaLi112/main.cpp" "D:/Programming/LameScooter/marczaku-gp20-2021-0524-nim-game-xaLi112/cmake-build-debug/CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

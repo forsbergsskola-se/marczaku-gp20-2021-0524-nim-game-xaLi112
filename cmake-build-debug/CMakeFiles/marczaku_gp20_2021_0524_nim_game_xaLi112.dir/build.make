@@ -79,17 +79,38 @@ CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\main.cpp.s /c D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\main.cpp
 <<
 
+CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.obj: CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\flags.make
+CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.obj: ..\Tictactoe.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/Tictactoe.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.obj /FdCMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\ /FS -c D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\Tictactoe.cpp
+<<
+
+CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/Tictactoe.cpp.i"
+	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\Tictactoe.cpp
+<<
+
+CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/marczaku_gp20_2021_0524_nim_game_xaLi112.dir/Tictactoe.cpp.s"
+	C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.s /c D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\Tictactoe.cpp
+<<
+
 # Object files for target marczaku_gp20_2021_0524_nim_game_xaLi112
 marczaku_gp20_2021_0524_nim_game_xaLi112_OBJECTS = \
-"CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\main.cpp.obj"
+"CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\main.cpp.obj" \
+"CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.obj"
 
 # External object files for target marczaku_gp20_2021_0524_nim_game_xaLi112
 marczaku_gp20_2021_0524_nim_game_xaLi112_EXTERNAL_OBJECTS =
 
 marczaku_gp20_2021_0524_nim_game_xaLi112.exe: CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\main.cpp.obj
+marczaku_gp20_2021_0524_nim_game_xaLi112.exe: CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\Tictactoe.cpp.obj
 marczaku_gp20_2021_0524_nim_game_xaLi112.exe: CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make
 marczaku_gp20_2021_0524_nim_game_xaLi112.exe: CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable marczaku_gp20_2021_0524_nim_game_xaLi112.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable marczaku_gp20_2021_0524_nim_game_xaLi112.exe"
 	"Z:\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100162~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\objects1.rsp @<<
  /out:marczaku_gp20_2021_0524_nim_game_xaLi112.exe /implib:marczaku_gp20_2021_0524_nim_game_xaLi112.lib /pdb:D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\marczaku_gp20_2021_0524_nim_game_xaLi112.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

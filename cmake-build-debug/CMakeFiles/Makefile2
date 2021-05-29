@@ -77,12 +77,12 @@ clean: CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\clean
 CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target marczaku_gp20_2021_0524_nim_game_xaLi112"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target marczaku_gp20_2021_0524_nim_game_xaLi112"
 .PHONY : CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programming\LameScooter\marczaku-gp20-2021-0524-nim-game-xaLi112\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles\marczaku_gp20_2021_0524_nim_game_xaLi112.dir\rule
